@@ -5,6 +5,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 This looks fun
 
+![Books](https://www.istockphoto.com/photos/pile-of-books){ align=left }
+
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.

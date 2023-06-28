@@ -1,9 +1,7 @@
 site_name: My Docs
 
 nav:
-  - Home:
-    - index.md
-    - 
+  - Home: index.md
   - About: 'about.md'
   - Blog: bright_books.md
 theme:
@@ -11,3 +9,15 @@ theme:
   palette:
     primary: "blue"
     accent: "pink"
+extra:
+  author: Lili V
+  social:
+
+      link: https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Skilled+Team+Home
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+plugins:
+  - glightbox
+

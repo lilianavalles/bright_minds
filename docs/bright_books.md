@@ -1,10 +1,13 @@
 # Bright books
 
+![Books](https://www.istockphoto.com/photos/pile-of-books){ align=left }
+
 ## Books for Children by LuminArte
 
 Welcome to LuminArte, where imagination and learning come together! Our collection of books for children is designed to inspire young minds, ignite their curiosity, and foster a lifelong love for reading. Dive into our enchanting world of stories, adventures, and magical journeys. Here are some delightful titles from our collection:
 
 ## 1. *The Adventures of Sparkle and Shine*
+![Sparkle](https://m.media-amazon.com/images/M/MV5BY2FhYzhiYWYtYTRjNS00Y2UxLTg5MWEtMDRlYTRhN2M4Mjk0XkEyXkFqcGdeQXVyNjU0NjkxOTI@._V1_.jpg) { align=left }
 Embark on a whimsical adventure with Sparkle and Shine, two mischievous fairies who explore the enchanted forest. Join them as they discover hidden treasures, encounter friendly creatures, and learn valuable lessons about friendship and bravery.
 
 ## 2. *The Magical ABCs*
