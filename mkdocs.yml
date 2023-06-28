@@ -3,4 +3,15 @@ site_name: My Docs
 nav:
   - Home:
     - index.md
-    - bright_books.md
+    - 
+  - About: 'about.md'
+  - Blog: bright_books.md
+theme:
+  name: material
+  palette:
+    primary: "blue"
+    accent: "pink"
+pages:
+  - Home: 'index.md'
+  - About: 'about.md'
+  - Blog: 'blog.md'

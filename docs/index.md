@@ -1,6 +1,9 @@
-# Welcome to MkDocs!
+# Welcome to Lili's MkDocs!
 
+Yeah, not sure how this will look like.
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+This looks fun
 
 ## Commands
 
