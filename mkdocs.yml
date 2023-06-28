@@ -11,7 +11,3 @@ theme:
   palette:
     primary: "blue"
     accent: "pink"
-pages:
-  - Home: 'index.md'
-  - About: 'about.md'
-  - Blog: 'blog.md'
